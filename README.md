@@ -47,22 +47,6 @@ I enjoy working on RTL design, verification testbenches, and digital design proj
 - Verified functionality using custom Verilog testbenches and detailed waveform analysis in Vivado XSim.  
 - Synthesized the design in Vivado, analyzing resource utilization and scalability trends with increasing masters/slaves.  
 
-### 5-Stage Out-of-Order RISC-V Processor
-
-- Worked on a 5-stage out-of-order RISC-V processor with register renaming and a Reorder Buffer (ROB) for precise state recovery.  
-- Implemented dynamic scheduling and hazard handling to improve instruction-level parallelism.  
-- Verified pipeline behavior through simulation and waveform-based debugging.  
-
-### Low Power High Speed Approximate Multiplier
-
-- Designed an accuracy-controllable multiplier in Verilog optimized for power and speed.  
-- Analyzed trade-offs between accuracy, power, and performance under different configurations.  
-
-### Stuck-At Fault Identification in Full Adder (BIST)
-
-- Implemented LFSR-based test vector generation for stuck-at fault detection.  
-- Applied Built-In Self-Test (BIST) concepts to detect manufacturing-level faults.  
-
 ---
 
 ## 🎓 Education
