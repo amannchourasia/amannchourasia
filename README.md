@@ -1,6 +1,6 @@
 # Hi, I'm AMAN CHOURASIA 👋
 
-Electronics and Communication Engineer with a strong interest in **VLSI** Design and Design Verification.  
+Electronics and Electrical Engineer with a strong interest in **VLSI** Design and Design Verification.  
 I enjoy working on RTL design, verification testbenches, and digital design projects using Verilog and SystemVerilog.
 
 ---
@@ -52,13 +52,13 @@ I enjoy working on RTL design, verification testbenches, and digital design proj
 ## 🎓 Education
 
 - **PG Diploma in VLSI Design (PG-DVLSI)** – CDAC, Hyderabad  
-- **B.Tech in Electronics and Communication Engineering** – IPS, Indore  
+- **B.E in Electronics and Electrical Engineering** – IPS, Indore  
 
 ---
 
 ## 💬 About Me
 
-Electronics and Communication Engineer with a strong interest in VLSI Design and Design Verification, supported by a PG Diploma in VLSI Design (PG-DVLSI) from CDAC Hyderabad.  
+Electronics and Electrical Engineer with a strong interest in VLSI Design and Design Verification, supported by a PG Diploma in VLSI Design (PG-DVLSI) from CDAC Hyderabad.  
 Experienced in RTL design using Verilog and SystemVerilog, testbench development, pipeline verification, and waveform-based debugging on tools like QuestaSim and Vivado in Linux environments.  
 Worked on projects including an AXI4-Lite crossbar interconnect, 5-stage out-of-order RISC-V processor, low-power approximate multiplier, and BIST-based fault detection, strengthening my digital design, SoC fundamentals, and verification skills.  
 Seeking an entry-level role in RTL Design or Design Verification in the semiconductor industry.
